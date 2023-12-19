@@ -1,5 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hey, I'm Marius 🙋‍♂️</h1>
 
+
+I'm a software engineering student at **[University of Technology of Belfort-Montbéliard](https://www.utbm.fr/)**. 
+
+I'm passionate about programming and love discovering different areas of computer science. 
+I've already carried out a number of projects for my courses as well as for personal interests.
+
+I invite you to discover more about me through my portfolio : **[mariusdiguat.fr](https://www.mariusdiguat.fr/)**
 <!--
 **Mariusfaitducode/Mariusfaitducode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
